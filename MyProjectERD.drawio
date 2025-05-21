@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.6">
+  <diagram name="Page-1" id="L17xXZHHuUYxDRuQJ4fX">
+    <mxGraphModel dx="1196" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-1" value="������️ מדידת טמפרטורה ולחות" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="690" y="48" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-2" value="������ מדידת רמת אור בסביבה" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="690" y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-3" value="������ פתיחה/סגירה של וילון (מנוע)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="665" y="130" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-4" value="������ הצגת המידע בתצוגה" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-5" value="������ שליטה דרך הטלפון" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-6" value="עם חיישן DHT11 או DHT22." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="48" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-7" value="עם חיישן LDR." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="590" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-9" value="לפי חום או אור, או שליטה ידנית." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-10" value="OLED או LCD." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-11" value="דרך Wi-Fi עם דף פשוט." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlAEBDYwZQ3NaORT2iDD-12" value="&lt;div align=&quot;right&quot;&gt;������ איך זה ייראה:&lt;li data-end=&quot;1157&quot; data-start=&quot;1057&quot;&gt;&lt;p data-end=&quot;1070&quot; data-start=&quot;1059&quot;&gt;תצוגה מראה&lt;/p&gt;&lt;ul data-end=&quot;1157&quot; data-start=&quot;1073&quot;&gt;&lt;li data-end=&quot;1089&quot; data-start=&quot;1073&quot;&gt;&lt;p data-end=&quot;1089&quot; data-start=&quot;1075&quot;&gt;טמפרטורה: 27°C&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;1103&quot; data-start=&quot;1092&quot;&gt;&lt;p data-end=&quot;1103&quot; data-start=&quot;1094&quot;&gt;לחות: 65%&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;1117&quot; data-start=&quot;1106&quot;&gt;&lt;p data-end=&quot;1117&quot; data-start=&quot;1108&quot;&gt;אור: נמוך&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;1157&quot; data-start=&quot;1141&quot;&gt;&lt;p data-end=&quot;1157&quot; data-start=&quot;1143&quot;&gt;מצב תריס: וילון&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p data-end=&quot;1180&quot; data-start=&quot;1161&quot;&gt;בדפדפן בטלפון תוכל:&lt;/p&gt;&lt;ul data-end=&quot;1255&quot; data-start=&quot;1183&quot;&gt;&lt;li data-end=&quot;1207&quot; data-start=&quot;1183&quot;&gt;&lt;p data-end=&quot;1207&quot; data-start=&quot;1185&quot;&gt;לראות את אותם הנתונים.&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;1255&quot; data-start=&quot;1210&quot;&gt;&lt;p data-end=&quot;1255&quot; data-start=&quot;1212&quot;&gt;ללחוץ על כפתור &quot;הפעל מאוורר&quot; / &quot;סגור תריס&quot;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6F0000;fillColor=#a20025;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="560" y="265" width="280" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
